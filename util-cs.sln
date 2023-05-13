@@ -1,12 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "idGen", "idGen\idGen.csproj", "{7ED87074-BF70-4D42-BC17-B76A8529C43D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdGen", "IdGen\IdGen.csproj", "{7ED87074-BF70-4D42-BC17-B76A8529C43D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{12712B31-77A7-44CC-B178-04C1E7ABC057}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "__Test__", "__Test__\__Test__.csproj", "{12712B31-77A7-44CC-B178-04C1E7ABC057}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictQueue", "DictQueue\DictQueue.csproj", "{A074DE5B-60B1-443B-8DE7-B8F55D30FAEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToString", "ToString\ToString.csproj", "{6D170CF0-90A2-481F-9B70-E49363E351FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringUtil", "StringUtil\StringUtil.csproj", "{6D170CF0-90A2-481F-9B70-E49363E351FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

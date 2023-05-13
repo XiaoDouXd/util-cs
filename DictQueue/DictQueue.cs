@@ -242,6 +242,6 @@ namespace DictQueue
     {
         protected DictQueue() {}
         protected static readonly Stopwatch Clock = Stopwatch.StartNew();
-        protected static long IdGen(int hashCode) => (Clock.ElapsedTicks << 32) & hashCode;
+        protected static long IdGen(long hashCode) => (Clock.ElapsedTicks << 32) | hashCode;
     }
 }

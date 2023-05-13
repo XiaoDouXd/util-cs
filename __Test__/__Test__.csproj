@@ -6,10 +6,11 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <Authors>xiaodou</Authors>
+        <RootNamespace>Test</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\idGen\idGen.csproj" />
+      <ProjectReference Include="..\IdGen\IdGen.csproj" />
     </ItemGroup>
 
 </Project>
